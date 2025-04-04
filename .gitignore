@@ -1,0 +1,10 @@
+node_modules
+.env
+docker-compose.override.yml
+.dockerenv
+docker-volume-data/
+docker-compose.yml
+
+
+
+
